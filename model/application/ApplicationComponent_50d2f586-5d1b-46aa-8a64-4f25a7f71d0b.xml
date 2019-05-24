@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Backend"
+    id="50d2f586-5d1b-46aa-8a64-4f25a7f71d0b"
+    documentation="Flask backend som realiserer et API"/>

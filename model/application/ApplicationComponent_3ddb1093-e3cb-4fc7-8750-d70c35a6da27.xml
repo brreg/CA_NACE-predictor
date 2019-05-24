@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PoC Client"
+    id="3ddb1093-e3cb-4fc7-8750-d70c35a6da27"
+    documentation="Enkel React-klient"/>

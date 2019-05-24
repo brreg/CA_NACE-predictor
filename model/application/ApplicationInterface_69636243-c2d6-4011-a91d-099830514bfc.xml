@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API"
+    id="69636243-c2d6-4011-a91d-099830514bfc"
+    documentation="Et enkelt API som eksponerer modellens metoder."/>
